@@ -4,8 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Preksha-shah01&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Preksha-shah01&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Preksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preksha-shah01&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.herokuapp.com/?username=Preksha-shah01&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
