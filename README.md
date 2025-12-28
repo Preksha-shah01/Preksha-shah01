@@ -1,7 +1,8 @@
 <div align="center">
 
 ### My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Preksha-shah01&theme=dark&refresh=123)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Preksha-shah01&theme=dark&refresh=2025)](https://git.io/streak-stats)
 
 <br/>
 
