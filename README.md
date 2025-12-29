@@ -1,8 +1,5 @@
 <div align="center">
 
-### My GitHub Stats
-
-[![GitHub Streak](https://[YOUR-NEW-DOMAIN-HERE](https://github-readme-streak-stats-ruddy-alpha.vercel.app/)/?user=Preksha-shah01&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
