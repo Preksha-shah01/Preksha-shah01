@@ -1,5 +1,8 @@
 <div align="center">
 
+### My GitHub Stats
+
+[![GitHub Streak](PASTE_YOUR_VERCEL_LINK_HERE/?user=Preksha-shah01&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
